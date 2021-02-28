@@ -30,7 +30,8 @@ void setup (){
   button13 = new buttonNumber (760, 395, 50, 30, 12, "");
   button14 = new buttonNumber (825, 395, 50, 30, 12, "");
   button15 = new buttonNumber (890, 395, 50, 30, 12, "");
-  }
+
+}
 
 void draw() { 
   background(0);
